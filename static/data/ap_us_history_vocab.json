@@ -1,0 +1,18 @@
+{
+    "units": [
+      {
+        "unit": "Unit 1",
+        "terms": [
+          {"term": "Columbian Exchange", "definition": "The transfer of plants, animals, and diseases between the Americas and the Old World."},
+          {"term": "Mercantilism", "definition": "Economic policy focused on maximizing exports and accumulating wealth through colonies."}
+        ]
+      },
+      {
+        "unit": "Unit 2",
+        "terms": [
+          {"term": "Enlightenment", "definition": "Intellectual movement emphasizing reason and individualism."}
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,36 @@
+{
+    "unit_1": [
+      {
+        "question": "What is the limit of (x\u00b2 - 1)/(x - 1) as x approaches 1?",
+        "choices": [
+          "0",
+          "1",
+          "2",
+          "undefined"
+        ],
+        "answer": "2"
+      },
+      {
+        "question": "Which rule is used to differentiate a product of two functions?",
+        "choices": [
+          "Quotient Rule",
+          "Product Rule",
+          "Chain Rule",
+          "Power Rule"
+        ],
+        "answer": "Product Rule"
+      }
+    ],
+    "unit_2": [
+      {
+        "question": "What does the derivative of a function represent?",
+        "choices": [
+          "The area under the curve",
+          "The slope of the tangent line",
+          "The y-intercept of the function",
+          "The maximum value of the function"
+        ],
+        "answer": "The slope of the tangent line"
+      }
+    ]
+  }

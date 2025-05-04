@@ -1,0 +1,10 @@
+[
+    {
+        "question_type": "Concept Application",
+        "prompt": "Jamie, a high school student, recently started preparing for a series of final exams. Over the last week, Jamie has experienced difficulty sleeping, a lack of appetite, and feelings of hopelessness. Jamie’s parents are worried and suggest she meet with a school counselor. Explain how each of the following concepts may relate to Jamie's situation:\n\n1. General Adaptation Syndrome\n2. Cognitive appraisal\n3. Major depressive disorder\n4. Locus of control\n5. Behavioral approach\n6. SSRIs (Selective Serotonin Reuptake Inhibitors)\n7. Humanistic therapy"
+    },
+    {
+        "question_type": "Research Design",
+        "prompt": "A psychologist is interested in studying the effect of background music on memory recall. The psychologist hypothesizes that participants who study while listening to classical music will recall more words than those who study in silence.\n\nDesign an experiment to test this hypothesis. In your response, you must:\n\n1. Identify the **independent** and **dependent** variables\n2. Explain **random assignment** and its importance\n3. Describe how **operational definitions** could be used\n4. Identify one potential **confounding variable** and explain how to control for it\n5. Discuss **informed consent** as an ethical consideration\n6. Explain how results could be evaluated using **mean** and **standard deviation**"
+    }
+]

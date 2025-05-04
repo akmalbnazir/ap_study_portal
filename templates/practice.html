@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ course.name }} – Unit {{ unit }} Practice</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    .no-select {
+      user-select: none;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+    }
+    .no-focus:focus {
+      outline: none !important;
+      caret-color: transparent !important;
+    }
+  </style>
+</head>
+<body class="bg-gray-100 min-h-screen p-8 no-select">
+  <div class="max-w-3xl mx-auto bg-white p-6 rounded-lg shadow-md">
+    <h1 class="text-2xl font-bold mb-4">{{ course.name }} – Unit {{ unit }} Practice Questions</h1>
+
+    <!-- Flash Messages -->
+    {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+        {% for category, message in messages %}
+          <div class="mb-4 text-{{ 'green' if category == 'success' else 'red' }}-600">
+            {{ message }}
+          </div>
+        {% endfor %}
+      {% endif %}
+    {% endwith %}
+
+    <!-- Questions Section -->
+    {% if unsupported %}
+      <p class="text-gray-600 italic">Practice questions for this course are not yet supported.</p>
+    {% elif questions %}
+      {% for q in questions %}
+        <div class="bg-blue-100 rounded p-6 shadow mb-6">
+          <p class="font-semibold mb-2">{{ loop.index }}. {{ q.question }}</p>
+          <ul class="list-disc list-inside pl-4 mb-2">
+            {% for choice in q.choices %}
+              <li>{{ choice }}</li>
+            {% endfor %}
+          </ul>
+          <button onclick="this.nextElementSibling.classList.toggle('hidden')" class="text-blue-600 hover:underline no-focus">Show Answer</button>
+          <p class="hidden mt-2 text-green-700 font-medium">{{ q.answer }}</p>
+        </div>
+      {% endfor %}
+    {% else %}
+      <p class="text-gray-600">No questions available for this unit.</p>
+    {% endif %}
+
+    {% if not unsupported %}
+      <!-- Generate New Questions Button -->
+      <form method="POST" class="mt-6">
+        <button type="submit" class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded">
+          Generate 5 New Questions
+        </button>
+      </form>
+    {% endif %}
+
+    <!-- Unit Navigation -->
+    {% if not unsupported %}
+      <div class="flex justify-between items-center mt-8">
+        {% if unit > 1 %}
+          <a href="{{ url_for('course.practice', course_id=course.id, unit=unit-1) }}"
+             class="text-xl text-blue-600 hover:underline no-focus">&larr; Previous Unit</a>
+        {% else %}
+          <span class="text-xl text-gray-400">&larr; Previous Unit</span>
+        {% endif %}
+
+        {% if unit < unit_count %}
+          <a href="{{ url_for('course.practice', course_id=course.id, unit=unit+1) }}"
+             class="text-xl text-blue-600 hover:underline no-focus">Next Unit &rarr;</a>
+        {% else %}
+          <span class="text-xl text-gray-400">Next Unit &rarr;</span>
+        {% endif %}
+      </div>
+    {% endif %}
+
+    <!-- Back to Dashboard -->
+    <div class="mt-6">
+      <a href="{{ url_for('dashboard') }}" class="text-blue-600 hover:underline no-focus">← Back to Dashboard</a>
+    </div>
+  </div>
+</body>
+</html>

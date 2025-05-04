@@ -1,0 +1,106 @@
+{
+  "unit_1": [
+    {
+      "question": "Which school of thought in psychology focused on breaking down mental processes into the most basic components?",
+      "choices": [
+        "Structuralism",
+        "Functionalism",
+        "Behaviorism",
+        "Humanism"
+      ],
+      "answer": "Structuralism"
+    },
+    {
+      "question": "Who is considered the 'father of psychology' and established the first psychology laboratory?",
+      "choices": [
+        "Wilhelm Wundt",
+        "Sigmund Freud",
+        "William James",
+        "John B. Watson"
+      ],
+      "answer": "Wilhelm Wundt"
+    },
+    {
+      "question": "Which psychological approach emphasizes the influence of unconscious drives and childhood experiences?",
+      "choices": [
+        "Psychoanalytic",
+        "Behavioral",
+        "Cognitive",
+        "Humanistic"
+      ],
+      "answer": "Psychoanalytic"
+    },
+    {
+      "question": "Which of the following best describes the main focus of behaviorism?",
+      "choices": [
+        "Observable actions and environmental influences",
+        "Inner thoughts and feelings",
+        "Unconscious motives",
+        "Self-actualization and growth"
+      ],
+      "answer": "Observable actions and environmental influences"
+    },
+    {
+      "question": "What is the main purpose of using the scientific method in psychological research?",
+      "choices": [
+        "To minimize bias and ensure reliable results",
+        "To prove a specific theory is correct",
+        "To gather opinions from participants",
+        "To conduct therapy sessions"
+      ],
+      "answer": "To minimize bias and ensure reliable results"
+    }
+  ],
+  "unit_2": [
+    {
+      "question": "Which part of the neuron is responsible for receiving information from other neurons and conveying this information to the cell body?",
+      "choices": [
+        "Dendrites",
+        "Axons",
+        "Synapses",
+        "Myelin Sheath"
+      ],
+      "answer": "Dendrites"
+    },
+    {
+      "question": "What is the process called when a neuron fires and sends an electrical charge down the axon?",
+      "choices": [
+        "Polarization",
+        "Depolarization",
+        "Action Potential",
+        "Resting Potential"
+      ],
+      "answer": "Action Potential"
+    },
+    {
+      "question": "What neurotransmitter is primarily responsible for mood regulation and is often the target of antidepressant medications?",
+      "choices": [
+        "Serotonin",
+        "Dopamine",
+        "Epinephrine",
+        "GABA"
+      ],
+      "answer": "Serotonin"
+    },
+    {
+      "question": "Which type of nervous system controls the body's skeletal muscles?",
+      "choices": [
+        "Sympathetic Nervous System",
+        "Parasympathetic Nervous System",
+        "Somatic Nervous System",
+        "Autonomic Nervous System"
+      ],
+      "answer": "Somatic Nervous System"
+    },
+    {
+      "question": "What is the name of the brain's ability to change its own structure and function in response to experience or damage?",
+      "choices": [
+        "Plasticity",
+        "Adaptability",
+        "Resiliency",
+        "Flexibility"
+      ],
+      "answer": "Plasticity"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+    "unit_1": [
+      {
+        "question": "What was the main effect of the Columbian Exchange?",
+        "choices": [
+          "Europeans gained new territories",
+          "Native populations increased",
+          "Cultural diffusion between Asia and Europe",
+          "Transfer of crops, animals, and diseases"
+        ],
+        "answer": "Transfer of crops, animals, and diseases"
+      },
+      {
+        "question": "Which economic system drove European colonization of the Americas?",
+        "choices": [
+          "Capitalism",
+          "Socialism",
+          "Feudalism",
+          "Mercantilism"
+        ],
+        "answer": "Mercantilism"
+      }
+    ],
+    "unit_2": [
+      {
+        "question": "What Enlightenment idea most influenced the American Revolution?",
+        "choices": [
+          "Divine Right of Kings",
+          "Totalitarianism",
+          "Natural Rights and Social Contract",
+          "Religious Uniformity"
+        ],
+        "answer": "Natural Rights and Social Contract"
+      }
+    ]
+  }

@@ -1,0 +1,1004 @@
+{
+    "questions": [
+        {
+            "question": "A patient suddenly cannot form new memories following a traumatic brain injury, though they can remember events from childhood. Which brain region was most likely damaged?",
+            "choices": [
+                "Amygdala",
+                "Hippocampus",
+                "Cerebellum",
+                "Thalamus"
+            ],
+            "answer": "Hippocampus"
+        },
+        {
+            "question": "The tendency to recall the first items in a list more easily than the middle items is known as:",
+            "choices": [
+                "Recency effect",
+                "Primacy effect",
+                "Serial-position effect",
+                "Chunking"
+            ],
+            "answer": "Primacy effect"
+        },
+        {
+            "question": "In Pavlov’s experiment with dogs, the bell served as which component of classical conditioning?",
+            "choices": [
+                "Unconditioned stimulus",
+                "Conditioned stimulus",
+                "Conditioned response",
+                "Unconditioned response"
+            ],
+            "answer": "Conditioned stimulus"
+        },
+        {
+            "question": "Which of the following best illustrates the concept of \"learned helplessness\"?",
+            "choices": [
+                "A student drops a difficult class after the first bad grade.",
+                "A dog does not try to escape after repeated electric shocks.",
+                "A person cries when watching a sad movie.",
+                "A child imitates their parent’s mannerisms."
+            ],
+            "answer": "A dog does not try to escape after repeated electric shocks."
+        },
+        {
+            "question": "According to Jean Piaget, which stage of cognitive development involves mastering object permanence?",
+            "choices": [
+                "Sensorimotor",
+                "Preoperational",
+                "Concrete operational",
+                "Formal operational"
+            ],
+            "answer": "Sensorimotor"
+        },
+        {
+            "question": "Which neurotransmitter is most associated with the reward pathway and addiction?",
+            "choices": [
+                "Serotonin",
+                "Dopamine",
+                "GABA",
+                "Norepinephrine"
+            ],
+            "answer": "Dopamine"
+        },
+        {
+            "question": "A person who has damage to Broca’s area will likely experience:",
+            "choices": [
+                "Difficulty understanding language",
+                "Inability to recognize faces",
+                "Difficulty producing speech",
+                "Loss of motor coordination"
+            ],
+            "answer": "Difficulty producing speech"
+        },
+        {
+            "question": "What is the primary function of the myelin sheath?",
+            "choices": [
+                "To transmit neurotransmitters",
+                "To nourish glial cells",
+                "To increase the speed of neural impulses",
+                "To generate action potentials"
+            ],
+            "answer": "To increase the speed of neural impulses"
+        },
+        {
+            "question": "A teacher gives a student a sticker every time they raise their hand. What schedule of reinforcement is this?",
+            "choices": [
+                "Variable ratio",
+                "Fixed interval",
+                "Fixed ratio",
+                "Variable interval"
+            ],
+            "answer": "Fixed ratio"
+        },
+        {
+            "question": "Which of the following scenarios best illustrates the concept of groupthink?",
+            "choices": [
+                "A jury suppresses individual opinions to reach a unanimous verdict quickly.",
+                "A class debates a controversial issue with no clear consensus.",
+                "A student conforms to peer pressure to cheat on a test.",
+                "A person improves performance when others are watching."
+            ],
+            "answer": "A jury suppresses individual opinions to reach a unanimous verdict quickly."
+        },
+        {
+            "question": "Which theory of emotion states that we feel emotion after our body reacts?",
+            "choices": [
+                "Cannon-Bard theory",
+                "James-Lange theory",
+                "Schachter-Singer theory",
+                "Cognitive appraisal theory"
+            ],
+            "answer": "James-Lange theory"
+        },
+        {
+            "question": "A child says “goed” instead of “went.” This is an example of:",
+            "choices": [
+                "Overgeneralization",
+                "Telegraphic speech",
+                "Syntax error",
+                "Receptive language"
+            ],
+            "answer": "Overgeneralization"
+        },
+        {
+            "question": "Which concept best explains why you remember emotional days, such as your graduation, more vividly?",
+            "choices": [
+                "Procedural memory",
+                "Semantic encoding",
+                "Flashbulb memory",
+                "Distributed rehearsal"
+            ],
+            "answer": "Flashbulb memory"
+        },
+        {
+            "question": "According to Erik Erikson, adolescents are primarily concerned with:",
+            "choices": [
+                "Autonomy vs. shame",
+                "Industry vs. inferiority",
+                "Identity vs. role confusion",
+                "Intimacy vs. isolation"
+            ],
+            "answer": "Identity vs. role confusion"
+        },
+        {
+            "question": "Which of the following best illustrates the fundamental attribution error?",
+            "choices": [
+                "Blaming the weather for being late",
+                "Assuming someone is lazy because they are unemployed",
+                "Taking credit for a good grade while blaming others for a bad one",
+                "Failing a test due to lack of studying"
+            ],
+            "answer": "Assuming someone is lazy because they are unemployed"
+        },
+        {
+            "question": "A person sees a bear in the woods and feels fear at the same time their heart races. This supports:",
+            "choices": [
+                "James-Lange theory",
+                "Cannon-Bard theory",
+                "Schachter-Singer theory",
+                "Yerkes-Dodson theory"
+            ],
+            "answer": "Cannon-Bard theory"
+        },
+        {
+            "question": "In a double-blind study, who is unaware of the treatment being administered?",
+            "choices": [
+                "Only the participants",
+                "Only the researchers",
+                "Both the participants and researchers",
+                "The funding agency"
+            ],
+            "answer": "Both the participants and researchers"
+        },
+        {
+            "question": "Which psychological perspective focuses most on how behaviors are reinforced and learned from the environment?",
+            "choices": [
+                "Cognitive",
+                "Psychodynamic",
+                "Behaviorist",
+                "Humanistic"
+            ],
+            "answer": "Behaviorist"
+        },
+        {
+            "question": "The minimum stimulation needed to detect a stimulus 50% of the time is called the:",
+            "choices": [
+                "Difference threshold",
+                "Absolute threshold",
+                "Sensory adaptation",
+                "Signal detection"
+            ],
+            "answer": "Absolute threshold"
+        },
+        {
+            "question": "A person misremembers a dream as a real memory. This is most closely related to:",
+            "choices": [
+                "Source amnesia",
+                "Retrograde amnesia",
+                "Anterograde amnesia",
+                "Explicit memory"
+            ],
+            "answer": "Source amnesia"
+        },
+        {
+            "question": "A researcher finds that as sleep decreases, levels of stress increase. This is an example of which type of correlation?",
+            "choices": [
+                "Positive correlation",
+                "Negative correlation",
+                "Spurious correlation",
+                "No correlation"
+            ],
+            "answer": "Negative correlation"
+        },
+        {
+            "question": "A child is praised every time they clean their room. Eventually, the child begins cleaning regularly. This is an example of:",
+            "choices": [
+                "Negative reinforcement",
+                "Positive reinforcement",
+                "Punishment",
+                "Extinction"
+            ],
+            "answer": "Positive reinforcement"
+        },
+        {
+            "question": "Which structure in the eye is responsible for regulating the amount of light that enters?",
+            "choices": [
+                "Iris",
+                "Cornea",
+                "Lens",
+                "Retina"
+            ],
+            "answer": "Iris"
+        },
+        {
+            "question": "A student learns to associate the sound of a bell with the end of a class. Eventually, they begin to pack up when they hear any bell. This is an example of:",
+            "choices": [
+                "Stimulus discrimination",
+                "Spontaneous recovery",
+                "Stimulus generalization",
+                "Extinction"
+            ],
+            "answer": "Stimulus generalization"
+        },
+        {
+            "question": "What is the most common explanation for why eyewitness testimonies can be unreliable?",
+            "choices": [
+                "Retinal disparity",
+                "Proactive interference",
+                "Misinformation effect",
+                "Semantic encoding"
+            ],
+            "answer": "Misinformation effect"
+        },
+        {
+            "question": "Which part of the nervous system is responsible for calming the body after a stressful event?",
+            "choices": [
+                "Sympathetic nervous system",
+                "Central nervous system",
+                "Somatic nervous system",
+                "Parasympathetic nervous system"
+            ],
+            "answer": "Parasympathetic nervous system"
+        },
+        {
+            "question": "A psychologist who studies how people solve logic puzzles is most likely working within which field?",
+            "choices": [
+                "Clinical psychology",
+                "Behavioral psychology",
+                "Cognitive psychology",
+                "Humanistic psychology"
+            ],
+            "answer": "Cognitive psychology"
+        },
+        {
+            "question": "Which defense mechanism involves directing emotions toward a safer substitute target?",
+            "choices": [
+                "Repression",
+                "Sublimation",
+                "Projection",
+                "Displacement"
+            ],
+            "answer": "Displacement"
+        },
+        {
+            "question": "A student studies harder after receiving a failing grade. This behavior is most influenced by:",
+            "choices": [
+                "Latent learning",
+                "Observational learning",
+                "Operant conditioning",
+                "Classical conditioning"
+            ],
+            "answer": "Operant conditioning"
+        },
+        {
+            "question": "Which of the following best illustrates a fixed mindset according to Carol Dweck’s research?",
+            "choices": [
+                "Believing failure is an opportunity to grow",
+                "Thinking intelligence is changeable",
+                "Assuming effort doesn't matter because abilities are fixed",
+                "Working harder after setbacks"
+            ],
+            "answer": "Assuming effort doesn't matter because abilities are fixed"
+        },
+        {
+            "question": "Which brain imaging technique uses magnetic fields and radio waves to create detailed images of the brain?",
+            "choices": [
+                "EEG",
+                "MRI",
+                "CT scan",
+                "PET scan"
+            ],
+            "answer": "MRI"
+        },
+        {
+            "question": "A rat in a maze explores but shows no evidence of learning until food is placed at the end. This is best explained by:",
+            "choices": [
+                "Latent learning",
+                "Learned helplessness",
+                "Modeling",
+                "Classical conditioning"
+            ],
+            "answer": "Latent learning"
+        },
+        {
+            "question": "Which of the following is the best operational definition of anxiety in an experiment?",
+            "choices": [
+                "A subjective feeling of fear",
+                "A score on a standardized anxiety questionnaire",
+                "The tendency to avoid social events",
+                "High levels of stress hormones"
+            ],
+            "answer": "A score on a standardized anxiety questionnaire"
+        },
+        {
+            "question": "Which concept explains why someone is more likely to help a stranger when they are the only person present?",
+            "choices": [
+                "Social facilitation",
+                "Diffusion of responsibility",
+                "Fundamental attribution error",
+                "Bystander effect"
+            ],
+            "answer": "Bystander effect"
+        },
+        {
+            "question": "A student believes that every time they wear a certain hoodie, they do well on tests. This is an example of:",
+            "choices": [
+                "Confirmation bias",
+                "Availability heuristic",
+                "Illusory correlation",
+                "Anchoring bias"
+            ],
+            "answer": "Illusory correlation"
+        },
+        {
+            "question": "Which parenting style is characterized by high expectations but also high warmth and responsiveness?",
+            "choices": [
+                "Authoritarian",
+                "Permissive",
+                "Authoritative",
+                "Neglectful"
+            ],
+            "answer": "Authoritative"
+        },
+        {
+            "question": "Which part of the brain is most involved in voluntary muscle movement?",
+            "choices": [
+                "Frontal lobe",
+                "Occipital lobe",
+                "Temporal lobe",
+                "Parietal lobe"
+            ],
+            "answer": "Frontal lobe"
+        },
+        {
+            "question": "A participant sees a series of dots but perceives them as forming a shape. This is due to which Gestalt principle?",
+            "choices": [
+                "Closure",
+                "Proximity",
+                "Similarity",
+                "Continuity"
+            ],
+            "answer": "Closure"
+        },
+        {
+            "question": "Which schedule of reinforcement is most resistant to extinction?",
+            "choices": [
+                "Fixed ratio",
+                "Fixed interval",
+                "Variable ratio",
+                "Continuous reinforcement"
+            ],
+            "answer": "Variable ratio"
+        },
+        {
+            "question": "Which of the following is a potential ethical violation in psychological research?",
+            "choices": [
+                "Obtaining informed consent",
+                "Deceiving participants without debriefing",
+                "Allowing withdrawal from the study",
+                "Keeping participant information confidential"
+            ],
+            "answer": "Deceiving participants without debriefing"
+        },
+        {
+            "question": "A person believes their partner is cheating despite having no evidence. They then accuse their partner while being unfaithful themselves. This is an example of:",
+            "choices": [
+                "Projection",
+                "Denial",
+                "Rationalization",
+                "Sublimation"
+            ],
+            "answer": "Projection"
+        },
+        {
+            "question": "Damage to Broca’s area in the brain is most likely to result in:",
+            "choices": [
+                "Inability to understand spoken language",
+                "Inability to form new memories",
+                "Difficulty producing fluent speech",
+                "Loss of fine motor skills"
+            ],
+            "answer": "Difficulty producing fluent speech"
+        },
+        {
+            "question": "Which research method would be most appropriate to examine the relationship between hours of sleep and academic performance?",
+            "choices": [
+                "Experiment",
+                "Survey",
+                "Correlation study",
+                "Naturalistic observation"
+            ],
+            "answer": "Correlation study"
+        },
+        {
+            "question": "Which neurotransmitter is most closely linked with mood regulation and is often targeted by antidepressants?",
+            "choices": [
+                "Dopamine",
+                "GABA",
+                "Serotonin",
+                "Acetylcholine"
+            ],
+            "answer": "Serotonin"
+        },
+        {
+            "question": "A patient with split-brain syndrome is shown a pencil in their left visual field. They will most likely:",
+            "choices": [
+                "Verbally say 'pencil'",
+                "Be unable to say what they saw but could draw it with the left hand",
+                "Write the word 'pencil' with their right hand",
+                "Point to the word 'pencil' using their right hand"
+            ],
+            "answer": "Be unable to say what they saw but could draw it with the left hand"
+        },
+        {
+            "question": "Which perspective is most concerned with how behaviors help individuals adapt to their environments?",
+            "choices": [
+                "Behavioral",
+                "Cognitive",
+                "Humanistic",
+                "Evolutionary"
+            ],
+            "answer": "Evolutionary"
+        },
+        {
+            "question": "Which concept explains the improvement in performance on simple tasks in the presence of others?",
+            "choices": [
+                "Social loafing",
+                "Group polarization",
+                "Deindividuation",
+                "Social facilitation"
+            ],
+            "answer": "Social facilitation"
+        },
+        {
+            "question": "The fact that we can recognize a face in different lighting conditions and angles demonstrates:",
+            "choices": [
+                "Perceptual constancy",
+                "Retinal disparity",
+                "Sensory adaptation",
+                "Selective attention"
+            ],
+            "answer": "Perceptual constancy"
+        },
+        {
+            "question": "Which of the following is most likely to be used in an experiment to ensure random assignment?",
+            "choices": [
+                "Stratified sampling",
+                "Informed consent",
+                "A coin toss",
+                "Survey questions"
+            ],
+            "answer": "A coin toss"
+        },
+        {
+            "question": "When a conditioned stimulus is presented repeatedly without the unconditioned stimulus, what will likely occur?",
+            "choices": [
+                "Acquisition",
+                "Spontaneous recovery",
+                "Extinction",
+                "Generalization"
+            ],
+            "answer": "Extinction"
+        },
+        {
+            "question": "In Erikson’s psychosocial stages, the major task of adolescence is to develop:",
+            "choices": [
+                "Trust",
+                "Initiative",
+                "Identity",
+                "Autonomy"
+            ],
+            "answer": "Identity"
+        },
+        {
+            "question": "Which part of the brain regulates hunger, thirst, and body temperature?",
+            "choices": [
+                "Amygdala",
+                "Hippocampus",
+                "Hypothalamus",
+                "Thalamus"
+            ],
+            "answer": "Hypothalamus"
+        },
+        {
+            "question": "A test that produces consistent results, but does not measure what it intends to, lacks:",
+            "choices": [
+                "Reliability",
+                "Validity",
+                "Standardization",
+                "Objectivity"
+            ],
+            "answer": "Validity"
+        },
+        {
+            "question": "The belief that intelligence is biologically set and unchanging aligns with which type of mindset?",
+            "choices": [
+                "Fluid mindset",
+                "Growth mindset",
+                "Fixed mindset",
+                "Reflective mindset"
+            ],
+            "answer": "Fixed mindset"
+        },
+        {
+            "question": "Which scenario best illustrates the concept of the just-world phenomenon?",
+            "choices": [
+                "Assuming homeless people are lazy and deserve their condition",
+                "Blaming the victim of a robbery for walking alone",
+                "Sympathizing with someone who lost their job",
+                "Believing bad luck happens randomly"
+            ],
+            "answer": "Assuming homeless people are lazy and deserve their condition"
+        },
+        {
+            "question": "According to the Yerkes-Dodson Law, performance on a difficult task is best when arousal is:",
+            "choices": [
+                "Very high",
+                "Moderate",
+                "Extremely low",
+                "Fluctuating"
+            ],
+            "answer": "Moderate"
+        },
+        {
+            "question": "A student gets into a car accident and afterward avoids driving altogether. This is an example of:",
+            "choices": [
+                "Operant conditioning",
+                "Learned helplessness",
+                "Generalized anxiety",
+                "Phobic avoidance"
+            ],
+            "answer": "Phobic avoidance"
+        },
+        {
+            "question": "Which of the following best illustrates the availability heuristic?",
+            "choices": [
+                "Thinking plane crashes are common after seeing one on the news",
+                "Choosing the longest word on a vocabulary test",
+                "Assuming two events must be related because they happen together",
+                "Trusting data only when it supports your opinion"
+            ],
+            "answer": "Thinking plane crashes are common after seeing one on the news"
+        },
+        {
+            "question": "In classical conditioning, what term describes a previously neutral stimulus that elicits a response after association?",
+            "choices": [
+                "Unconditioned stimulus",
+                "Conditioned response",
+                "Conditioned stimulus",
+                "Neutral stimulus"
+            ],
+            "answer": "Conditioned stimulus"
+        },
+        {
+            "question": "Which of the following disorders is characterized by persistent intrusive thoughts and ritualistic behaviors?",
+            "choices": [
+                "Generalized anxiety disorder",
+                "Obsessive-compulsive disorder",
+                "Post-traumatic stress disorder",
+                "Panic disorder"
+            ],
+            "answer": "Obsessive-compulsive disorder"
+        },
+        {
+            "question": "Which term refers to the smallest difference between two stimuli that is detectable 50% of the time?",
+            "choices": [
+                "Absolute threshold",
+                "Signal detection",
+                "Just noticeable difference",
+                "Subliminal threshold"
+            ],
+            "answer": "Just noticeable difference"
+        },
+        {
+            "question": "A psychology student writes detailed notes and mentally imagines the content while studying. This is an example of which encoding strategy?",
+            "choices": [
+                "Maintenance rehearsal",
+                "Shallow processing",
+                "Elaborative rehearsal",
+                "Chunking"
+            ],
+            "answer": "Elaborative rehearsal"
+        },
+        {
+            "question": "The fact that people tend to recall the first and last items in a list best demonstrates the:",
+            "choices": [
+                "Misinformation effect",
+                "Serial position effect",
+                "Spacing effect",
+                "Tip-of-the-tongue phenomenon"
+            ],
+            "answer": "Serial position effect"
+        },
+        {
+            "question": "Which disorder is most commonly treated with lithium?",
+            "choices": [
+                "Major depressive disorder",
+                "Schizophrenia",
+                "Bipolar disorder",
+                "Generalized anxiety disorder"
+            ],
+            "answer": "Bipolar disorder"
+        },
+        {
+            "question": "A person develops an intense fear of elevators after being trapped in one. This is an example of:",
+            "choices": [
+                "Observational learning",
+                "Operant conditioning",
+                "Classical conditioning",
+                "Latent learning"
+            ],
+            "answer": "Classical conditioning"
+        },
+        {
+            "question": "The release of epinephrine and norepinephrine during times of stress is triggered by which system?",
+            "choices": [
+                "Parasympathetic nervous system",
+                "Endocrine system",
+                "Somatic nervous system",
+                "Reticular formation"
+            ],
+            "answer": "Endocrine system"
+        },
+        {
+            "question": "Which of the following is an example of a projective test?",
+            "choices": [
+                "MMPI",
+                "Big Five Inventory",
+                "Thematic Apperception Test",
+                "WAIS"
+            ],
+            "answer": "Thematic Apperception Test"
+        },
+        {
+            "question": "Which cognitive bias leads individuals to overestimate their ability to have predicted an outcome after it occurs?",
+            "choices": [
+                "Confirmation bias",
+                "Availability heuristic",
+                "Hindsight bias",
+                "Self-serving bias"
+            ],
+            "answer": "Hindsight bias"
+        },
+        {
+            "question": "When a child calls every four-legged animal a 'dog,' they are demonstrating:",
+            "choices": [
+                "Accommodation",
+                "Assimilation",
+                "Object permanence",
+                "Egocentrism"
+            ],
+            "answer": "Assimilation"
+        },
+        {
+            "question": "In Milgram’s obedience study, participants were instructed to administer shocks. What percentage of participants went to the highest voltage?",
+            "choices": [
+                "15%",
+                "35%",
+                "65%",
+                "85%"
+            ],
+            "answer": "65%"
+        },
+        {
+            "question": "Which brain structure is most involved in forming new explicit memories?",
+            "choices": [
+                "Amygdala",
+                "Hippocampus",
+                "Cerebellum",
+                "Corpus callosum"
+            ],
+            "answer": "Hippocampus"
+        },
+        {
+            "question": "Which schedule of reinforcement is most resistant to extinction?",
+            "choices": [
+                "Fixed ratio",
+                "Variable ratio",
+                "Fixed interval",
+                "Continuous"
+            ],
+            "answer": "Variable ratio"
+        },
+        {
+            "question": "The concept of self-actualization is most associated with which psychological perspective?",
+            "choices": [
+                "Behavioral",
+                "Humanistic",
+                "Cognitive",
+                "Psychoanalytic"
+            ],
+            "answer": "Humanistic"
+        },
+        {
+            "question": "Which psychologist is best known for their research on attachment in monkeys?",
+            "choices": [
+                "Albert Bandura",
+                "John Bowlby",
+                "Harry Harlow",
+                "Konrad Lorenz"
+            ],
+            "answer": "Harry Harlow"
+        },
+        {
+            "question": "A person’s belief that their success is due to effort rather than luck represents:",
+            "choices": [
+                "External locus of control",
+                "Internal locus of control",
+                "Learned helplessness",
+                "Cognitive dissonance"
+            ],
+            "answer": "Internal locus of control"
+        },
+        {
+            "question": "Which of the following illustrates the concept of groupthink?",
+            "choices": [
+                "A team debates different ideas before making a decision",
+                "A group suppresses dissent to preserve harmony",
+                "An individual conforms to group norms under pressure",
+                "Members of a jury deliberate for hours to reach consensus"
+            ],
+            "answer": "A group suppresses dissent to preserve harmony"
+        },
+        {
+            "question": "Which term describes the readiness of certain associations to be learned more easily than others?",
+            "choices": [
+                "Biological preparedness",
+                "Classical conditioning",
+                "Cognitive dissonance",
+                "Latent inhibition"
+            ],
+            "answer": "Biological preparedness"
+        },
+        {
+            "question": "An individual experiences episodes of intense dread, rapid heartbeat, and shortness of breath. They are most likely suffering from:",
+            "choices": [
+                "Generalized anxiety disorder",
+                "Panic disorder",
+                "Phobia",
+                "Obsessive-compulsive disorder"
+            ],
+            "answer": "Panic disorder"
+        },
+        {
+            "question": "Which of the following would most likely be used to study the effects of brain damage in a single individual in depth?",
+            "choices": [
+                "Experiment",
+                "Survey",
+                "Case study",
+                "Naturalistic observation"
+            ],
+            "answer": "Case study"
+        },
+        {
+            "question": "Which parenting style is most associated with children who are self-reliant and socially competent?",
+            "choices": [
+                "Authoritarian",
+                "Permissive",
+                "Neglectful",
+                "Authoritative"
+            ],
+            "answer": "Authoritative"
+        },
+        {
+            "question": "A person notices that their heart rate increases before public speaking. Which division of the nervous system is responsible for this reaction?",
+            "choices": [
+                "Somatic",
+                "Parasympathetic",
+                "Central",
+                "Sympathetic"
+            ],
+            "answer": "Sympathetic"
+        },
+        {
+            "question": "Which term describes the brain’s ability to adapt after injury or damage?",
+            "choices": [
+                "Neuroplasticity",
+                "Neurogenesis",
+                "Synaptic pruning",
+                "Neurotransmission"
+            ],
+            "answer": "Neuroplasticity"
+        },
+        {
+            "question": "According to the James-Lange theory of emotion, which comes first?",
+            "choices": [
+                "Cognitive interpretation",
+                "Emotional experience",
+                "Physiological arousal",
+                "Memory recall"
+            ],
+            "answer": "Physiological arousal"
+        },
+        {
+            "question": "Which disorder involves disruptions in consciousness, memory, identity, or perception?",
+            "choices": [
+                "Bipolar disorder",
+                "Dissociative disorder",
+                "Schizophrenia",
+                "Obsessive-compulsive disorder"
+            ],
+            "answer": "Dissociative disorder"
+        },
+        {
+            "question": "What type of test is the SAT considered?",
+            "choices": [
+                "Projective",
+                "Achievement",
+                "Aptitude",
+                "Subjective"
+            ],
+            "answer": "Aptitude"
+        },
+        {
+            "question": "Which depth cue requires input from both eyes?",
+            "choices": [
+                "Linear perspective",
+                "Texture gradient",
+                "Retinal disparity",
+                "Relative size"
+            ],
+            "answer": "Retinal disparity"
+        },
+        {
+            "question": "Which neurotransmitter is most associated with the regulation of mood, appetite, and sleep?",
+            "choices": [
+                "Dopamine",
+                "GABA",
+                "Serotonin",
+                "Acetylcholine"
+            ],
+            "answer": "Serotonin"
+        },
+        {
+            "question": "A student learns a concept better when studying in the same room where they will take the test. This is an example of:",
+            "choices": [
+                "State-dependent memory",
+                "Context-dependent memory",
+                "Mood-congruent memory",
+                "Procedural memory"
+            ],
+            "answer": "Context-dependent memory"
+        },
+        {
+            "question": "Which psychological approach emphasizes free will and self-actualization?",
+            "choices": [
+                "Cognitive",
+                "Humanistic",
+                "Behavioral",
+                "Psychoanalytic"
+            ],
+            "answer": "Humanistic"
+        },
+        {
+            "question": "A researcher observes a child on a playground without interfering. What type of research method is being used?",
+            "choices": [
+                "Experimental",
+                "Survey",
+                "Naturalistic observation",
+                "Case study"
+            ],
+            "answer": "Naturalistic observation"
+        },
+        {
+            "question": "Which concept describes how people overestimate how much others notice and evaluate them?",
+            "choices": [
+                "Self-serving bias",
+                "Fundamental attribution error",
+                "Spotlight effect",
+                "Confirmation bias"
+            ],
+            "answer": "Spotlight effect"
+        },
+        {
+            "question": "Which theory of motivation states that behavior is directed toward reducing internal tension?",
+            "choices": [
+                "Drive-reduction theory",
+                "Incentive theory",
+                "Arousal theory",
+                "Self-determination theory"
+            ],
+            "answer": "Drive-reduction theory"
+        },
+        {
+            "question": "What do the cones in the retina detect?",
+            "choices": [
+                "Low light and movement",
+                "Shades of gray",
+                "Color and detail",
+                "Depth perception"
+            ],
+            "answer": "Color and detail"
+        },
+        {
+            "question": "The tendency to recall the first items in a list better than the middle ones is known as:",
+            "choices": [
+                "Recency effect",
+                "Primacy effect",
+                "Spacing effect",
+                "Serial position effect"
+            ],
+            "answer": "Primacy effect"
+        },
+        {
+            "question": "Which perspective would most likely explore how unconscious drives influence behavior?",
+            "choices": [
+                "Behavioral",
+                "Cognitive",
+                "Psychodynamic",
+                "Biological"
+            ],
+            "answer": "Psychodynamic"
+        },
+        {
+            "question": "What is the term for a test’s ability to produce consistent results?",
+            "choices": [
+                "Validity",
+                "Reliability",
+                "Standardization",
+                "Objectivity"
+            ],
+            "answer": "Reliability"
+        },
+        {
+            "question": "Which theorist proposed that we have multiple intelligences including musical, spatial, and bodily-kinesthetic?",
+            "choices": [
+                "Robert Sternberg",
+                "Alfred Binet",
+                "Howard Gardner",
+                "Charles Spearman"
+            ],
+            "answer": "Howard Gardner"
+        },
+        {
+            "question": "A student believes they failed a test because the teacher dislikes them. This illustrates which locus of control?",
+            "choices": [
+                "Stable",
+                "External",
+                "Internal",
+                "Global"
+            ],
+            "answer": "External"
+        },
+        {
+            "question": "Which type of reinforcement schedule produces high rates of responding and is very resistant to extinction?",
+            "choices": [
+                "Fixed ratio",
+                "Variable interval",
+                "Variable ratio",
+                "Fixed interval"
+            ],
+            "answer": "Variable ratio"
+        },
+        {
+            "question": "In Pavlov’s original experiment with dogs, what was the neutral stimulus?",
+            "choices": [
+                "Food",
+                "Bell",
+                "Salivation",
+                "Dog"
+            ],
+            "answer": "Bell"
+        }
+    ]
+}

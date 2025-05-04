@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Dashboard</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 min-h-screen p-8">
+  <div class="max-w-4xl mx-auto bg-white p-6 rounded-lg shadow-md">
+    <h1 class="text-2xl font-bold mb-4">Welcome, {{ user.email }}!</h1>
+    <p class="mb-6 text-gray-600">Your enrolled AP courses are listed below.</p>
+
+    {% if user_courses %}
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+        {% for uc in user_courses %}
+          <div class="bg-gray-50 border rounded p-4">
+            <h2 class="text-xl font-semibold">{{ uc.course.name }}</h2>
+            <p class="text-sm text-gray-600 mb-2">Exam Date: {{ uc.course.exam_date.strftime("%B %d, %Y") }}</p>
+            <a href="/course/{{ uc.course.id }}" class="text-blue-600 hover:underline">Go to Course</a>
+          </div>
+        {% endfor %}
+      </div>
+    {% else %}
+      <p class="text-gray-600 mb-4">You haven't added any courses yet.</p>
+    {% endif %}
+
+    <div class="flex gap-4 mt-6">
+      <a href="{{ url_for('course.add_course') }}" class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded">Add New Course</a>
+      <a href="/logout" class="bg-red-500 hover:bg-red-600 text-white px-4 py-2 rounded">Logout</a>
+    </div>
+  </div>
+</body>
+</html>

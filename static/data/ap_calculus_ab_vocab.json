@@ -1,0 +1,18 @@
+{
+    "units": [
+      {
+        "unit": "Unit 1",
+        "terms": [
+          {"term": "Limit", "definition": "The value a function approaches as the input approaches a specific point."},
+          {"term": "Continuity", "definition": "A function is continuous if there are no breaks, jumps, or holes."}
+        ]
+      },
+      {
+        "unit": "Unit 2",
+        "terms": [
+          {"term": "Derivative", "definition": "A measure of how a function changes as its input changes."}
+        ]
+      }
+    ]
+  }
+  

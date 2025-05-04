@@ -1,0 +1,96 @@
+{
+    "units": [
+      {
+        "unit": "Unit 1: Scientific Foundations of Psychology",
+        "terms": [
+          {"term": "Empiricism", "definition": "The idea that knowledge comes from experience."},
+          {"term": "Structuralism", "definition": "Early school of thought using introspection to explore the mind."},
+          {"term": "Functionalism", "definition": "Focused on how mental and behavioral processes function."},
+          {"term": "Behaviorism", "definition": "View that psychology should be objective and study behavior."},
+          {"term": "Humanistic Psychology", "definition": "Emphasizes personal growth and self-actualization."},
+          {"term": "Biopsychosocial Approach", "definition": "Integrated viewpoint incorporating biological, psychological, and social-cultural levels."}
+        ]
+      },
+      {
+        "unit": "Unit 2: Research Methods",
+        "terms": [
+          {"term": "Independent Variable", "definition": "The factor that is manipulated in an experiment."},
+          {"term": "Dependent Variable", "definition": "The factor that is measured in an experiment."},
+          {"term": "Random Assignment", "definition": "Assigning participants to groups by chance."},
+          {"term": "Correlation", "definition": "A measure of the relationship between two variables."},
+          {"term": "Confounding Variable", "definition": "A variable that affects both the independent and dependent variables."}
+        ]
+      },
+      {
+        "unit": "Unit 3: Biological Bases of Behavior",
+        "terms": [
+          {"term": "Neuron", "definition": "Basic building block of the nervous system."},
+          {"term": "Synapse", "definition": "The gap between two neurons where neurotransmitters are released."},
+          {"term": "Neurotransmitters", "definition": "Chemical messengers that transmit signals across synapses."},
+          {"term": "Action Potential", "definition": "Electrical impulse that travels down a neuron."},
+          {"term": "Endocrine System", "definition": "System of glands that secrete hormones."}
+        ]
+      },
+      {
+        "unit": "Unit 4: Sensation and Perception",
+        "terms": [
+          {"term": "Absolute Threshold", "definition": "Minimum stimulation needed to detect a stimulus 50% of the time."},
+          {"term": "Difference Threshold", "definition": "Minimum difference between two stimuli required for detection."},
+          {"term": "Sensory Adaptation", "definition": "Diminished sensitivity due to constant stimulation."},
+          {"term": "Perceptual Set", "definition": "Mental predisposition to perceive one thing and not another."},
+          {"term": "Top-down Processing", "definition": "Information processing guided by higher-level mental processes."}
+        ]
+      },
+      {
+        "unit": "Unit 5: Cognitive Psychology",
+        "terms": [
+          {"term": "Encoding", "definition": "The process of getting information into memory."},
+          {"term": "Retrieval", "definition": "The process of getting information out of memory storage."},
+          {"term": "Working Memory", "definition": "Active processing of incoming auditory and visual-spatial information."},
+          {"term": "Heuristic", "definition": "A simple thinking strategy for efficient problem solving."},
+          {"term": "Confirmation Bias", "definition": "Tendency to search for information that confirms beliefs."}
+        ]
+      },
+      {
+        "unit": "Unit 6: Developmental Psychology",
+        "terms": [
+          {"term": "Nature vs. Nurture", "definition": "Debate over genetic inheritance vs. environmental influence."},
+          {"term": "Attachment", "definition": "Emotional tie with another person."},
+          {"term": "Critical Period", "definition": "Optimal period early in life for development."},
+          {"term": "Authoritative Parenting", "definition": "Parenting style with high responsiveness and high demands."},
+          {"term": "Schema", "definition": "A concept that organizes and interprets information."}
+        ]
+      },
+      {
+        "unit": "Unit 7: Motivation, Emotion, and Personality",
+        "terms": [
+          {"term": "Drive-Reduction Theory", "definition": "Motivation arises from physiological needs that drive behavior."},
+          {"term": "Homeostasis", "definition": "Tendency to maintain a balanced internal state."},
+          {"term": "Maslow's Hierarchy", "definition": "Pyramid of human needs from basic to self-actualization."},
+          {"term": "James-Lange Theory", "definition": "Emotion follows physiological response."},
+          {"term": "Big Five Traits", "definition": "Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism."}
+        ]
+      },
+      {
+        "unit": "Unit 8: Clinical Psychology",
+        "terms": [
+          {"term": "DSM-5", "definition": "Diagnostic manual for mental disorders."},
+          {"term": "Anxiety Disorders", "definition": "Psychological disorders characterized by distressing anxiety."},
+          {"term": "Major Depressive Disorder", "definition": "Persistent depressed mood and loss of interest."},
+          {"term": "Schizophrenia", "definition": "Disorder characterized by delusions, hallucinations, and disorganized thought."},
+          {"term": "Cognitive Therapy", "definition": "Therapy that teaches adaptive thinking and acting."}
+        ]
+      },
+      {
+        "unit": "Unit 9: Social Psychology",
+        "terms": [
+          {"term": "Fundamental Attribution Error", "definition": "Overestimating personality and underestimating situation."},
+          {"term": "Conformity", "definition": "Adjusting behavior to match group standards."},
+          {"term": "Obedience", "definition": "Following orders from authority."},
+          {"term": "Groupthink", "definition": "Desire for harmony overrides realistic alternatives in decision-making."},
+          {"term": "Bystander Effect", "definition": "People are less likely to help when others are present."}
+        ]
+      }
+    ]
+  }
+  

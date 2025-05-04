@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ course.name }} — Vocabulary Flashcards</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script defer src="{{ url_for('static', filename='js/flashcard_logic.js') }}"></script>
+  <style>
+    .no-select {
+      user-select: none;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+    }
+
+    .no-focus:focus {
+      outline: none !important;
+      caret-color: transparent !important;
+    }
+  </style>
+</head>
+<body class="bg-gray-100 min-h-screen p-8 no-select">
+  <div class="max-w-3xl mx-auto bg-white p-6 rounded-lg shadow-md no-select">
+    <h1 class="text-2xl font-bold mb-4">{{ course.name }} — Vocabulary Flashcards</h1>
+
+    {% if unit_data %}
+      <!-- Unit Navigation -->
+      <div class="flex justify-between items-center mb-4">
+        {% if current_unit > 0 %}
+          <a href="{{ url_for('course.vocab_flashcards', course_id=course.id, unit=current_unit - 1) }}" class="text-xl no-focus">&larr;</a>
+        {% else %}
+          <span class="text-xl text-gray-300">&larr;</span>
+        {% endif %}
+
+        <span class="font-semibold text-lg">Unit {{ current_unit + 1 }}</span>
+
+        {% if current_unit < units|length - 1 %}
+          <a href="{{ url_for('course.vocab_flashcards', course_id=course.id, unit=current_unit + 1) }}" class="text-xl no-focus">&rarr;</a>
+        {% else %}
+          <span class="text-xl text-gray-300">&rarr;</span>
+        {% endif %}
+      </div>
+
+      <!-- Flashcard -->
+      <div class="mb-4">
+        <div id="flashcard" class="bg-blue-100 cursor-pointer text-center p-8 rounded shadow-lg text-xl transition-transform duration-300 ease-in-out no-select">
+          {{ unit_data[0].term }}
+        </div>
+      </div>
+
+      <!-- Flashcard Navigation -->
+      <div class="flex justify-center gap-4">
+        <button id="prev-flashcard" class="bg-gray-300 hover:bg-gray-400 text-sm px-4 py-2 rounded no-focus">←</button>
+        <button id="next-flashcard" class="bg-gray-300 hover:bg-gray-400 text-sm px-4 py-2 rounded no-focus">→</button>
+      </div>
+    {% else %}
+      <!-- Empty State -->
+      <p class="text-center text-gray-500 mt-8">No vocabulary data available for this course yet.</p>
+    {% endif %}
+
+    <div class="mt-6 text-center">
+      <a href="{{ url_for('dashboard') }}" class="text-blue-600 hover:underline no-focus">← Back to Dashboard</a>
+    </div>
+  </div>
+
+  <script>
+    const flashcardData = {{ unit_data|tojson|safe }};
+  </script>
+</body>
+</html>
